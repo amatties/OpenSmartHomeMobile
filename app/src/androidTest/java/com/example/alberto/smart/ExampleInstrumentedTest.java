@@ -1,4 +1,4 @@
-package com.example.alberto.opensmarthome;
+package com.example.alberto.smart;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.alberto.opensmarthome", appContext.getPackageName());
+        assertEquals("com.example.alberto.smart", appContext.getPackageName());
     }
 }

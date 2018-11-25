@@ -1,4 +1,4 @@
-package com.example.alberto.opensmarthome;
+package com.example.alberto.smart;
 
 import org.junit.Test;
 
