@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuIlumina"
+
+        android:title="@string/iluminacao" />
+    <item
+        android:id="@+id/menuTranca"
+        android:title="@string/trancas" />
+    <item
+        android:id="@+id/menuDispositivo"
+        android:title="@string/dispositivo" />
+    <item
+        android:id="@+id/menuSensor"
+        android:title="@string/sensor" />
+    <item
+        android:id="@+id/menuSair"
+        android:title="@string/sair" />
+
+
+
+
+</menu>
